@@ -10,3 +10,5 @@ This visualisation extension works on Qlik Sense Variable(s). It works like Qlik
 - Custom Label with Expression Support
 
 #### Note: *For range slider/dual value slider, min and max numbers are delimited by pipe "|". So you should use SUBFIELD() function in QlikSense to extract the min and max values.*
+
+##### Tested on Chrome and Firefox browser. Themes don't work on IE.
