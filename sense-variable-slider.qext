@@ -1,0 +1,13 @@
+{
+	"name" : "sense-variable-slider",
+	"description" : "slider object for sense variable",
+	"preview": "Variable-Input.png",
+	"type" : "visualization",
+	"version": "2.1.0",
+	"author": "Deepak Vadithala (DV)",
+	"homepage" : "www.QlikShare.com",
+	"keywords" : "qlik-sense, visualization, lock, unlock",
+	"license" : "MIT",
+	"repository" : "",
+    "dependencies" : { "qlik-sense" : ">=2.1.x" }
+}
