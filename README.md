@@ -2,7 +2,7 @@
 Qlik Sense Variable Slider Object
 
 This extension slider object works on Qlik Sense Variable(s). It works like QlikView slider object but just on variables at the moment.
-It support the following features:
+It support following features:
 - Single Value Slider
 - Expression support for Start, End and Step values
 - Dual Value Slider with Min, Max and Step values
