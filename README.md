@@ -10,7 +10,7 @@ It support following features:
 - Label Show/Hide
 - Custom Label with Expression Support
 
-#### Note: *For range slider/dual value slider, min and max numbers are delimited by pipe " | ". So you should use SUBFIELD() function in QlikSense to extract the min and max values.*
+#### *Note: For range slider/dual value slider – you will have two data points, min and max numbers are delimited by pipe " | ". So you should use SUBFIELD() function in QlikSense to extract the min and max values. *
 
 ##### Tested on Chrome and Firefox browser. Themes don't work on IE.
 
