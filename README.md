@@ -12,3 +12,7 @@ This visualisation extension works on Qlik Sense Variable(s). It works like Qlik
 #### Note: *For range slider/dual value slider, min and max numbers are delimited by pipe "|". So you should use SUBFIELD() function in QlikSense to extract the min and max values.*
 
 ##### Tested on Chrome and Firefox browser. Themes don't work on IE.
+
+![How to use Sense Variable Slider](https://github.com/iamdv/sense-variable-slider/blob/master/sense-variable-slider.gif)
+
+
