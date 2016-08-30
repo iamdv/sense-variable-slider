@@ -1,7 +1,7 @@
 define( [
     "qlik", 
     "jquery",
-    "css!./Variable-Input.css",
+    "css!./sense-variable-slider.css",
     "css!./jquery-ui.css",
 	"https://code.jquery.com/ui/1.12.0/jquery-ui.js",
 	"https://code.jquery.com/jquery-1.12.4.js"
